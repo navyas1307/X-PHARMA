@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+##  Tech Stack  
 - **Power BI** – Data Visualization & Dashboards  
 - **Python** – Data Processing & Analysis (`pandas`, `matplotlib`, `seaborn`)   
 
